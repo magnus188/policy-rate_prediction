@@ -1,1 +1,1 @@
-#ML prosjekt for å predikere styringsrenten
+# A machine learning project to predict the policy rate of Norway
